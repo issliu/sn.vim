@@ -1,5 +1,5 @@
 set cursorline
-set guifont=Consolas:h12
+set guifont=Source\ Code\ Pro\ For\ Powerline:h14
 if has("gui_gtk")
     set guifont=Inconsolata\ 12
 end

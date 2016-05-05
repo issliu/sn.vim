@@ -14,7 +14,7 @@ Plugin 'derekwyatt/vim-scala'
 "========================================}{
 " Zen
 Plugin 'mattn/emmet-vim'
-" activation key <C-Y><leader>
+"activation key <C-Y><leader>
 "let g:user_zen_expandabbr_key = '<c-j>'
 "let g:use_zen_complete_tag = 1
 "let g:no_html_toolbar = 'yes'

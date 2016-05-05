@@ -9,7 +9,8 @@ set guifont=Source\ Code\ Pro\ For\ Powerline:h14
 
 " FIX: PluginUpdate => git pull: git-sh-setup: No such file or directory in MacVim (OK in non-GUI version of Vim)
 if has("gui_macvim")
-    set shell=/usr/local/bin/zsh\ -l
+    set shell=/bin/bash
+    "set shell=/usr/local/bin/zsh\ -l
     "set shell=/usr/bin/login\ -f
     "set shell=/bin/bash\ -c\ /bin/zsh
 endif
