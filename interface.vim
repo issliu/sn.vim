@@ -54,9 +54,9 @@ let g:tagbar_width=26
 nmap <F5> <ESC>:TagbarToggle<CR>
 nnoremap <D-t> <ESC>:TagbarToggle<CR>
 "========================================}{
-Plugin 'bling/vim-airline'
+Plugin 'vim-airline/vim-airline'
 " need to run install.sh
-Plugin 'Lokaltog/powerline-fonts'
+Plugin 'Lokaltog/powerline-fontpatcher'
 let g:airline_powerline_fonts = 1
 "Plugin 'bling/vim-bufferline'
 "let g:airline#extensions#bufferline#enabled = 1
