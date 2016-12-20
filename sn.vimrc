@@ -72,7 +72,7 @@ set nofoldenable
 
 let javaScript_fold=1         " JavaScript
 let perl_fold=1               " Perl
-let php_folding=0             " PHP use phpfolding
+let php_folding=1             " PHP use phpfolding
 let r_syntax_folding=1        " R
 let ruby_fold=1               " Ruby
 let sh_fold_enabled=1         " sh
