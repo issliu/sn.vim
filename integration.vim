@@ -30,5 +30,4 @@ let g:ag_highlight=1
 " use Ag! for quickfix instead of LAg! for location-list
 " to avoid change Nerdtree windows
 nnoremap <Leader>ag :Ag!
-
 "========================================}{

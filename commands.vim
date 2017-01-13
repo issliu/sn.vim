@@ -1,4 +1,6 @@
 "========================================}{
+Plugin 'tpope/vim-surround'
+"========================================}{
 " clip board
 Plugin 'YankRing.vim'
 let g:yankring_max_history = 100

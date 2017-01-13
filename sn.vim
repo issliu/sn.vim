@@ -127,4 +127,5 @@ endfunction
 " j k with sticky cursor
 nmap <C-K> k<C-Y>
 nmap <C-J> j<C-E>
+map <Leader>no :nohl<CR>
 "=====================================================================

@@ -6,4 +6,4 @@ nnoremap <silent> <leader>fw :FixWhitespace<CR>
 Plugin 'fatih/molokai'
 Plugin 'altercation/vim-colors-solarized'
 "========================================}{
-
+Plugin 'nathanaelkane/vim-indent-guides'

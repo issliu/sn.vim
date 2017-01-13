@@ -1,6 +1,4 @@
 "========================================}{
-Plugin 'tpope/vim-surround'
-"========================================}{
 Plugin 'chrisbra/csv.vim'
 "========================================}{
 Plugin 'awk-support.vim'
@@ -10,6 +8,7 @@ Plugin 'elzr/vim-json'
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'leafgarland/typescript-vim'
+Bundle 'magarcia/vim-angular2-snippets'
 "========================================}{
 " Zen
 Plugin 'mattn/emmet-vim'
