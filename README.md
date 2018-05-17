@@ -29,3 +29,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 6. open vim
 
 PluginInstall
+
+
+Tips:
+默认新增了目录放在 sn.vim/yankring_history 文件夹中
