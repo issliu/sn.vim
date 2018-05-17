@@ -2,7 +2,7 @@
 " clip board
 Plugin 'YankRing.vim'
 let g:yankring_max_history = 100
-let g:yankring_history_dir = '~/yankring_history_dir/'
+let g:yankring_history_dir = '~/.vim/config/yankring_history_dir'
 nnoremap <silent> <F4> :YRShow<CR>
 nnoremap <silent> <D-y> :YRShow<CR>
 let g:yankring_replace_n_pkey = '<m-p>'
