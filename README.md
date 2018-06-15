@@ -27,8 +27,10 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 
 6. open vim
-
-PluginInstall
+// 查看安装了哪些插件
+:PluginList
+// 安装插件
+:PluginInstall
 
 
 Tips:
